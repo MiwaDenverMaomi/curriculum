@@ -1,0 +1,187 @@
+.container{
+	width:400px;
+	margin:0 auto;
+}
+
+.header{
+	width:100%;
+	height:100px;
+	background-color: #141f40;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.main{
+	display:flex;
+	height: 250px;
+}
+
+.nav{
+	width: 160px;
+	height: 60px;
+	background-color:#fff;
+	position: relative;
+	left:100px;
+	display:flex;
+	align-items:center;
+}
+
+.nav-list {
+	width:100%;
+	padding-left:0;
+	margin:0;
+	background-color:#fff;
+	display:flex;
+	justify-content: space-evenly;
+}
+
+.list-item {
+	width: 40px;
+	height: 40px;
+	background-color: #a9004b;
+	list-style: none;
+}
+
+.sidebar{
+background-color: #80bfa8;
+width:150px;
+height: 100%;
+}
+
+.section{
+	width:250px;
+	height:100%;
+	background-color: #8c2727;
+
+}
+
+.section-container{
+	margin:40px 60px 40px 40px;
+	width:150px;
+	height:170px;
+	display:flex;
+	flex-flow:column;
+	justify-content: space-between;
+}
+
+.article{
+	background-color:#ff863f;
+	border:5px solid #fff;
+	height:40px;
+}
+
+.footer{
+	background-color: #d98d30;
+	height:100px;
+}
+
+/* .flex {
+	display: flex;
+}
+
+.flex-coloumn {
+	display: flex;
+	flex-flow: column;
+	justify-content: space-around;
+}
+
+.align-center {
+	align-items: center;
+	justify-content: center;
+}
+
+.flow-column {
+	flex-flow: column;
+}
+
+.space-between {
+	justify-content: space-between;
+}
+
+.space-evenly {
+	justify-content: space-evenly;
+}
+
+.space-around {
+	justify-content: space-around;
+} */
+
+@media screen and (max-width: 479px) {
+
+.container{
+	width:200px;
+}
+
+.header {
+	height: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding:20px 0;
+}
+
+.main {
+	display: block;
+	width:100%;
+	height:310px;
+}
+
+.nav {
+	width: 60px;
+	height: 160px;
+	background-color: #fff;
+	position:static;
+}
+
+.nav-list {
+	width: 100%;
+	height:100%;
+	margin:0;
+	padding-left: 0;
+	display: flex;
+	flex-flow:column;
+	align-items:center;
+	justify-content: space-evenly;
+}
+
+.list-item {
+	width: 40px;
+	height: 40px;
+	background-color: #a9004b;
+	list-style: none;
+}
+
+.sidebar {
+	background-color: #80bfa8;
+	width: 100%;
+	height: 100px;
+}
+
+.section {
+	width: 100%;
+	display:block;
+	box-sizing:border-box;
+}
+
+.section-container {
+	margin:0;
+	display: flex;
+	flex-flow: column;
+	justify-content: space-between;
+	position:relative;
+  top: 20px;
+	left: 30px;
+}
+
+.article {
+	background-color: #ff863f;
+	border: 5px solid #fff;
+	height: 40px;
+}
+
+.footer {
+	background-color: #d98d30;
+	height: 100px;
+}
+}
