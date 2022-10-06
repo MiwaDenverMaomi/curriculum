@@ -1,0 +1,36 @@
+body{
+	background-color: #808080;
+	text-align:center;
+	color:#fff;
+	font-family:"MS明朝",serif;
+	font-size:62.5%;
+}
+
+h1{
+	font-size:20px;
+	border-bottom:4px solid #fff;
+	margin-top:90px;
+	margin-bottom:50px;
+}
+
+h2{
+	font-size:16px;
+	font-weight:bold;
+}
+
+p{
+	font-size:14px;
+}
+
+.container{
+	padding-top:20px;
+}
+.button{
+	border-radius:5px;
+	border:1px solid #333;
+	font-size:12px;
+}
+
+.radio{
+	font-size:12px;
+}
