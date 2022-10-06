@@ -1,7 +1,7 @@
 <?php
 if(!empty($_POST['submit'])){
   //POST送信で送られてきた名前を受け取って変数を作成
-  $username=$_POST['username'];
+  $username=!empty($_POST['username'])?$_POST['username']:"名無し";
   //①画像を参考に問題文の選択肢の配列を作成してください。
   $q_ports=array("80","22","20","21");
   $q_langs=array("PHP","Python","Java","HTML");
