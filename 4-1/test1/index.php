@@ -1,4 +1,7 @@
 <?php
+
+require "function.php";
+
 // クラスの名簿の配列
 $list = array(
     '山田' => array(
@@ -38,31 +41,10 @@ $list = array(
     )
 );
 
-// 取得したクラス名簿を表示するための処理
-function getName($list) {
-    $i = 0;
-    echo "【Aクラスの名簿】" . '<br>';
-//配列の中の名前を出す。
-    foreach ($list as $key => $member) {
-        if ($i < count($list)) {
-            echo $key[0] . '<br>';
-        }
-        $i++;
-    }
-}
 // クラスの一覧を表示
 getName($list);
-echo '<br>';
-// 大阪出身の方を表示
-getPeople();
 
-// 大阪出身の方を抽出
-function getPeople($list) {
-    foreach ($list as $key => $member) {
-        if (isset($member['出身']) && $member['出身'] === '大阪') {
-            echo "☆クラスで大阪出身の子は" . $key . PHP_EOL . "さんです。";
-        }
-    }
-}
+// 大阪出身の方を表示
+getPeople($list);
 
 ?>
