@@ -1,0 +1,62 @@
+@charset "UTF-8";
+.header {
+  height: 120px;
+  display: flex;
+  margin: 0 auto 20px;
+}
+.header__logo-container {
+  width: 200px;
+  height: 100%;
+  background-color: #add8e6;
+}
+.header__logo {
+  display: block;
+  width: 200px;
+}
+.header__info-container {
+  width: 800px;
+}
+.header__text {
+  line-height: 60px;
+  margin: 0;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.header__user-info {
+  height: 60px;
+  background-color: #87ceeb;
+  position: relative;
+}
+.header__login-date {
+  height: 60px;
+  background-color: #00ffff;
+  position: relative;
+}
+
+.posts {
+  margin: 0 auto;
+}
+.posts__head {
+  background-color: #87ceed;
+  margin: 10px 0;
+}
+.posts__data {
+  background-color: #e0ffff;
+  margin: 10px 0;
+}
+
+.footer {
+  height: 50px;
+  background-color: #00ced1;
+}
+
+body {
+  width: 1000px;
+  font-family: "MS Pゴシック", "Meiryo", sans-serif;
+  margin: 0 auto;
+}
+
+.main {
+  margin-bottom: 20px;
+}

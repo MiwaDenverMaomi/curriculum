@@ -1,0 +1,11 @@
+.posts{
+  margin:0 auto;
+  &__head{
+    background-color:#87ceed;
+    margin:10px 0;
+  }
+  &__data{
+    background-color:#e0ffff;
+    margin: 10px 0;
+  }
+}
