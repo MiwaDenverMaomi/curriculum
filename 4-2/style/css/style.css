@@ -19,6 +19,7 @@
 .header__text {
   line-height: 60px;
   margin: 0;
+  font-size: 1rem;
   position: absolute;
   top: 0;
   right: 0;
@@ -35,6 +36,7 @@
 }
 
 .posts {
+  min-width: 600px;
   margin: 0 auto;
 }
 .posts__head {
@@ -49,14 +51,28 @@
 .footer {
   height: 50px;
   background-color: #00ced1;
+  font-size: 1rem;
 }
 
 body {
   width: 1000px;
   font-family: "MS Pゴシック", "Meiryo", sans-serif;
   margin: 0 auto;
+  font-size: 62.5%;
+  padding-top: 30px;
 }
 
 .main {
   margin-bottom: 20px;
+  font-size: 1rem;
+  min-height: 200px;
+}
+
+.err {
+  line-height: 60px;
+  text-align: center;
+  font-size: 10px;
+  color: red;
+  font-size: 1rem;
+  margin: 0;
 }

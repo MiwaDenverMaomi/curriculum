@@ -10,7 +10,6 @@
   }
 
   &__logo {
-    display: block;
     width: 200px;
   }
 
@@ -18,9 +17,10 @@
     width: 800px;
   }
 
-  &__text {
-    line-height: 60px;
+  &__text{
+    line-height:60px;
     margin: 0;
+    font-size:1rem;
     position: absolute;
     top: 0;
     right: 0;
