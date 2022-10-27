@@ -8,7 +8,8 @@ $selected2=$_POST['q_langs'];
 $selected3=$_POST['q_cmds'];
 
 $answer1="80";
-$answer2="html";
+// $answer2="html";
+$answer2="HTML";
 $answer3="select";
 
 //選択した回答と正解が一致していれば「正解！」、一致していなければ「残念・・・」と出力される処理を組んだ関数を作成する
