@@ -24,10 +24,10 @@ class HomeController extends Controller
      */
     public function index()
     {
-        if(Auth::check()){
-            return redirect()->route('tweets.index');
-        }
-        return redirect('/login');
+        // if(Auth::check()){
+        //     return redirect()->route('tweets.index');
+        // }
+        return redirect()->route('tweets.index');
     }
 
     public function home()
@@ -35,9 +35,9 @@ class HomeController extends Controller
 
         //会員登録・ログアウトすると/homeにリダイレクトされ404となるのでここで
         //強制的にツイート画面にリダイレクト
-        if(Auth::check()){
-            return redirect()->route('tweets.index');
-        }
-        return redirect('/login');
+        // if(Auth::check()){
+        //     return redirect()->route('tweets.index');
+        // }
+        return redirect()->route('tweets.index');
     }
 }
