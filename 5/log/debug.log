@@ -1,0 +1,2396 @@
+[11-Nov-2022 08:33:28 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:33:28 Asia/Tokyo] ログイン画面
+[11-Nov-2022 08:33:28 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:33:28 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:33:28 Asia/Tokyo] Array
+(
+)
+
+[11-Nov-2022 08:33:28 Asia/Tokyo] POST送信ありました
+[11-Nov-2022 08:33:28 Asia/Tokyo] function/checkSpectialChars
+[11-Nov-2022 08:33:28 Asia/Tokyo] queryPost
+[11-Nov-2022 08:33:28 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT * FROM users WHERE name=:name
+)
+
+[11-Nov-2022 08:33:28 Asia/Tokyo] パスワードが正しいです
+[11-Nov-2022 08:33:28 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:33:28 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:33:28 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:33:28 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:33:28 Asia/Tokyo] Array
+(
+    [login_date] => 1668123208
+    [login_limit] => 3600
+    [name] => miwa
+    [user_id] => 1
+)
+
+[11-Nov-2022 08:33:28 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:33:28 Asia/Tokyo] PHP Notice:  Undefined variable: _SEESSION in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\auth\auth.php on line 7
+[11-Nov-2022 08:33:28 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\auth\auth.php on line 7
+[11-Nov-2022 08:33:28 Asia/Tokyo] ログイン有効期限がきれています
+[11-Nov-2022 08:34:20 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:34:20 Asia/Tokyo] ログイン画面
+[11-Nov-2022 08:34:20 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:34:20 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:34:20 Asia/Tokyo] Array
+(
+)
+
+[11-Nov-2022 08:34:26 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:34:26 Asia/Tokyo] ログイン画面
+[11-Nov-2022 08:34:26 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:34:26 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:34:26 Asia/Tokyo] Array
+(
+)
+
+[11-Nov-2022 08:34:26 Asia/Tokyo] POST送信ありました
+[11-Nov-2022 08:34:26 Asia/Tokyo] function/checkSpectialChars
+[11-Nov-2022 08:34:26 Asia/Tokyo] queryPost
+[11-Nov-2022 08:34:26 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT * FROM users WHERE name=:name
+)
+
+[11-Nov-2022 08:34:26 Asia/Tokyo] パスワードが正しいです
+[11-Nov-2022 08:34:26 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:34:26 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:34:26 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:34:26 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:34:26 Asia/Tokyo] Array
+(
+    [login_date] => 1668123266
+    [login_limit] => 3600
+    [name] => miwa
+    [user_id] => 1
+)
+
+[11-Nov-2022 08:34:26 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:34:26 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:34:26 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\auth\auth.php:16
+Stack trace:
+#0 C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\main.php(10): require_once()
+#1 {main}
+  thrown in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\auth\auth.php on line 16
+[11-Nov-2022 08:34:46 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:34:46 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:34:46 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:34:46 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:34:46 Asia/Tokyo] Array
+(
+    [login_date] => 1668123266
+    [login_limit] => 3600
+    [name] => miwa
+    [user_id] => 1
+)
+
+[11-Nov-2022 08:34:46 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:34:46 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:34:46 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\auth\auth.php:16
+Stack trace:
+#0 C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\main.php(10): require_once()
+#1 {main}
+  thrown in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\auth\auth.php on line 16
+[11-Nov-2022 08:35:05 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:05 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:35:05 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:05 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:35:05 Asia/Tokyo] Array
+(
+    [login_date] => 1668123286
+    [login_limit] => 3600
+    [name] => miwa
+    [user_id] => 1
+)
+
+[11-Nov-2022 08:35:05 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:35:05 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:35:05 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:35:05 Asia/Tokyo] queryPost
+[11-Nov-2022 08:35:05 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books
+)
+
+[11-Nov-2022 08:35:05 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 14
+            [title] => def
+            [date] => 2022-11-11
+            [stock] => 5
+        )
+
+)
+
+[11-Nov-2022 08:35:09 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:09 Asia/Tokyo] ログアウト画面
+[11-Nov-2022 08:35:09 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:09 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:35:09 Asia/Tokyo] Array
+(
+    [login_date] => 1668123305
+    [login_limit] => 3600
+    [name] => miwa
+    [user_id] => 1
+)
+
+[11-Nov-2022 08:35:09 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\logout.php on line 11
+[11-Nov-2022 08:35:09 Asia/Tokyo] ログアウトしました。
+[11-Nov-2022 08:35:09 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:09 Asia/Tokyo] 完了メッセージ
+[11-Nov-2022 08:35:09 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:09 Asia/Tokyo] セッションが空です。
+[11-Nov-2022 08:35:09 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:09 Asia/Tokyo] ログイン画面
+[11-Nov-2022 08:35:09 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:09 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:35:09 Asia/Tokyo] Array
+(
+)
+
+[11-Nov-2022 08:35:16 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:16 Asia/Tokyo] ログイン画面
+[11-Nov-2022 08:35:16 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:16 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:35:16 Asia/Tokyo] Array
+(
+)
+
+[11-Nov-2022 08:35:16 Asia/Tokyo] POST送信ありました
+[11-Nov-2022 08:35:16 Asia/Tokyo] function/checkSpectialChars
+[11-Nov-2022 08:35:16 Asia/Tokyo] queryPost
+[11-Nov-2022 08:35:16 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT * FROM users WHERE name=:name
+)
+
+[11-Nov-2022 08:35:16 Asia/Tokyo] パスワードが正しいです
+[11-Nov-2022 08:35:16 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:16 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:35:16 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:16 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:35:16 Asia/Tokyo] Array
+(
+    [login_date] => 1668123316
+    [login_limit] => 3600
+    [name] => miwa
+    [user_id] => 1
+)
+
+[11-Nov-2022 08:35:16 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:35:16 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:35:16 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:35:16 Asia/Tokyo] queryPost
+[11-Nov-2022 08:35:16 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books
+)
+
+[11-Nov-2022 08:35:16 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 14
+            [title] => def
+            [date] => 2022-11-11
+            [stock] => 5
+        )
+
+)
+
+[11-Nov-2022 08:35:18 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:18 Asia/Tokyo] 本登録画面
+[11-Nov-2022 08:35:18 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:18 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:35:18 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:35:45 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:45 Asia/Tokyo] 本登録画面
+[11-Nov-2022 08:35:45 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:45 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:35:45 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:35:45 Asia/Tokyo] POST送信ありました
+[11-Nov-2022 08:35:45 Asia/Tokyo] エラーありません
+[11-Nov-2022 08:35:45 Asia/Tokyo] queryPost
+[11-Nov-2022 08:35:45 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => INSERT INTO books (`date`,`title`,`stock`) VALUES(:date,:title,:stock)
+)
+
+[11-Nov-2022 08:35:45 Asia/Tokyo] 本登録成功
+[11-Nov-2022 08:35:45 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:45 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:35:45 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:35:45 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:35:45 Asia/Tokyo] Array
+(
+    [login_date] => 1668123345
+    [login_limit] => 3600
+    [name] => miwa
+    [user_id] => 1
+)
+
+[11-Nov-2022 08:35:45 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:35:45 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:35:45 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:35:45 Asia/Tokyo] queryPost
+[11-Nov-2022 08:35:45 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books
+)
+
+[11-Nov-2022 08:35:45 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 14
+            [title] => def
+            [date] => 2022-11-11
+            [stock] => 5
+        )
+
+    [6] => Array
+        (
+            [id] => 15
+            [title] => abcdefg
+            [date] => 2022-11-11
+            [stock] => 16
+        )
+
+)
+
+[11-Nov-2022 08:37:14 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:14 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:37:14 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:14 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:37:14 Asia/Tokyo] Array
+(
+    [login_date] => 1668123345
+    [login_limit] => 3600
+    [name] => miwa
+    [user_id] => 1
+)
+
+[11-Nov-2022 08:37:14 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:37:14 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:37:14 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:37:14 Asia/Tokyo] queryPost
+[11-Nov-2022 08:37:14 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:37:14 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 15
+            [title] => abcdefg
+            [date] => 2022-11-11
+            [stock] => 16
+        )
+
+    [1] => Array
+        (
+            [id] => 14
+            [title] => def
+            [date] => 2022-11-11
+            [stock] => 5
+        )
+
+    [2] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [6] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:37:20 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:20 Asia/Tokyo] 本削除
+[11-Nov-2022 08:37:21 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:21 Asia/Tokyo] queryPost
+[11-Nov-2022 08:37:21 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => DELETE FROM books WHERE id=:id
+)
+
+[11-Nov-2022 08:37:21 Asia/Tokyo] 削除成功
+[11-Nov-2022 08:37:21 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:21 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:37:21 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:21 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:37:21 Asia/Tokyo] Array
+(
+    [login_date] => 1668123434
+    [login_limit] => 3600
+    [name] => miwa
+    [user_id] => 1
+)
+
+[11-Nov-2022 08:37:21 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:37:21 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:37:21 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:37:21 Asia/Tokyo] queryPost
+[11-Nov-2022 08:37:21 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:37:21 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [title] => def
+            [date] => 2022-11-11
+            [stock] => 5
+        )
+
+    [1] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:37:25 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:25 Asia/Tokyo] ログアウト画面
+[11-Nov-2022 08:37:25 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:25 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:37:25 Asia/Tokyo] Array
+(
+    [login_date] => 1668123441
+    [login_limit] => 3600
+    [name] => miwa
+    [user_id] => 1
+)
+
+[11-Nov-2022 08:37:25 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\logout.php on line 11
+[11-Nov-2022 08:37:25 Asia/Tokyo] ログアウトしました。
+[11-Nov-2022 08:37:25 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:25 Asia/Tokyo] 完了メッセージ
+[11-Nov-2022 08:37:25 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:25 Asia/Tokyo] セッションが空です。
+[11-Nov-2022 08:37:25 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:25 Asia/Tokyo] ログイン画面
+[11-Nov-2022 08:37:25 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:25 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:37:25 Asia/Tokyo] Array
+(
+)
+
+[11-Nov-2022 08:37:33 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:33 Asia/Tokyo] ユーザー登録画面
+[11-Nov-2022 08:37:33 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:38 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:38 Asia/Tokyo] ユーザー登録画面
+[11-Nov-2022 08:37:38 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:38 Asia/Tokyo] POST送信あり
+[11-Nov-2022 08:37:38 Asia/Tokyo] function/checkSpectialChars
+[11-Nov-2022 08:37:38 Asia/Tokyo] queryPost
+[11-Nov-2022 08:37:38 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT * FROM users WHERE name=:name
+)
+
+[11-Nov-2022 08:37:38 Asia/Tokyo] 名前重複
+[11-Nov-2022 08:37:49 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:49 Asia/Tokyo] ユーザー登録画面
+[11-Nov-2022 08:37:49 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:49 Asia/Tokyo] POST送信あり
+[11-Nov-2022 08:37:49 Asia/Tokyo] function/checkSpectialChars
+[11-Nov-2022 08:37:49 Asia/Tokyo] queryPost
+[11-Nov-2022 08:37:49 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT * FROM users WHERE name=:name
+)
+
+[11-Nov-2022 08:37:49 Asia/Tokyo] エラーありません
+[11-Nov-2022 08:37:49 Asia/Tokyo] queryPost
+[11-Nov-2022 08:37:49 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => INSERT INTO users (name,password) VALUES (:name,:password)
+)
+
+[11-Nov-2022 08:37:49 Asia/Tokyo] 会員登録成功
+[11-Nov-2022 08:37:49 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:49 Asia/Tokyo] 完了メッセージ
+[11-Nov-2022 08:37:49 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:49 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:37:49 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:37:53 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:53 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:37:53 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:37:53 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:37:53 Asia/Tokyo] Array
+(
+    [login_date] => 1668123469
+    [login_limit] => 3600
+    [user_id] => 4
+    [user_name] => あきこ
+)
+
+[11-Nov-2022 08:37:53 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:37:53 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:37:53 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:37:53 Asia/Tokyo] queryPost
+[11-Nov-2022 08:37:53 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:37:53 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [title] => def
+            [date] => 2022-11-11
+            [stock] => 5
+        )
+
+    [1] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:39:09 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:09 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:39:09 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:09 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:39:09 Asia/Tokyo] Array
+(
+    [login_date] => 1668123473
+    [login_limit] => 3600
+    [user_id] => 4
+    [user_name] => あきこ
+)
+
+[11-Nov-2022 08:39:09 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:39:09 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:39:09 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:39:09 Asia/Tokyo] queryPost
+[11-Nov-2022 08:39:09 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:39:09 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [title] => def
+            [date] => 2022-11-11
+            [stock] => 5
+        )
+
+    [1] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:39:11 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:11 Asia/Tokyo] ログアウト画面
+[11-Nov-2022 08:39:11 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:11 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:39:11 Asia/Tokyo] Array
+(
+    [login_date] => 1668123549
+    [login_limit] => 3600
+    [user_id] => 4
+    [user_name] => あきこ
+)
+
+[11-Nov-2022 08:39:11 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\logout.php on line 11
+[11-Nov-2022 08:39:11 Asia/Tokyo] ログアウトしました。
+[11-Nov-2022 08:39:11 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:11 Asia/Tokyo] 完了メッセージ
+[11-Nov-2022 08:39:11 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:11 Asia/Tokyo] セッションが空です。
+[11-Nov-2022 08:39:11 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:11 Asia/Tokyo] ログイン画面
+[11-Nov-2022 08:39:11 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:11 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:39:11 Asia/Tokyo] Array
+(
+)
+
+[11-Nov-2022 08:39:20 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:20 Asia/Tokyo] ログイン画面
+[11-Nov-2022 08:39:20 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:20 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:39:20 Asia/Tokyo] Array
+(
+)
+
+[11-Nov-2022 08:39:20 Asia/Tokyo] POST送信ありました
+[11-Nov-2022 08:39:20 Asia/Tokyo] function/checkSpectialChars
+[11-Nov-2022 08:39:27 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:27 Asia/Tokyo] ログイン画面
+[11-Nov-2022 08:39:27 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:27 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:39:27 Asia/Tokyo] Array
+(
+)
+
+[11-Nov-2022 08:39:27 Asia/Tokyo] POST送信ありました
+[11-Nov-2022 08:39:27 Asia/Tokyo] function/checkSpectialChars
+[11-Nov-2022 08:39:27 Asia/Tokyo] queryPost
+[11-Nov-2022 08:39:27 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT * FROM users WHERE name=:name
+)
+
+[11-Nov-2022 08:39:27 Asia/Tokyo] パスワードが正しいです
+[11-Nov-2022 08:39:27 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:27 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:39:27 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:27 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:39:27 Asia/Tokyo] Array
+(
+    [login_date] => 1668123567
+    [login_limit] => 3600
+    [name] => あきこ
+    [user_id] => 4
+)
+
+[11-Nov-2022 08:39:27 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:39:27 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:39:27 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:39:27 Asia/Tokyo] queryPost
+[11-Nov-2022 08:39:27 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:39:27 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [title] => def
+            [date] => 2022-11-11
+            [stock] => 5
+        )
+
+    [1] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:39:32 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:32 Asia/Tokyo] ログアウト画面
+[11-Nov-2022 08:39:32 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:32 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:39:32 Asia/Tokyo] Array
+(
+    [login_date] => 1668123567
+    [login_limit] => 3600
+    [name] => あきこ
+    [user_id] => 4
+)
+
+[11-Nov-2022 08:39:32 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\logout.php on line 11
+[11-Nov-2022 08:39:32 Asia/Tokyo] ログアウトしました。
+[11-Nov-2022 08:39:32 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:32 Asia/Tokyo] 完了メッセージ
+[11-Nov-2022 08:39:32 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:32 Asia/Tokyo] セッションが空です。
+[11-Nov-2022 08:39:32 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:32 Asia/Tokyo] ログイン画面
+[11-Nov-2022 08:39:32 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:32 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:39:32 Asia/Tokyo] Array
+(
+)
+
+[11-Nov-2022 08:39:33 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:33 Asia/Tokyo] ユーザー登録画面
+[11-Nov-2022 08:39:33 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:43 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:43 Asia/Tokyo] ユーザー登録画面
+[11-Nov-2022 08:39:43 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:43 Asia/Tokyo] POST送信あり
+[11-Nov-2022 08:39:43 Asia/Tokyo] function/checkSpectialChars
+[11-Nov-2022 08:39:43 Asia/Tokyo] queryPost
+[11-Nov-2022 08:39:43 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT * FROM users WHERE name=:name
+)
+
+[11-Nov-2022 08:39:43 Asia/Tokyo] エラーありません
+[11-Nov-2022 08:39:44 Asia/Tokyo] queryPost
+[11-Nov-2022 08:39:44 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => INSERT INTO users (name,password) VALUES (:name,:password)
+)
+
+[11-Nov-2022 08:39:44 Asia/Tokyo] 会員登録成功
+[11-Nov-2022 08:39:44 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:44 Asia/Tokyo] 完了メッセージ
+[11-Nov-2022 08:39:44 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:44 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:39:44 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:39:47 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:47 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:39:47 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:47 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:39:47 Asia/Tokyo] Array
+(
+    [login_date] => 1668123584
+    [login_limit] => 3600
+    [user_id] => 5
+    [name] => みわち
+)
+
+[11-Nov-2022 08:39:47 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:39:47 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:39:47 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:39:47 Asia/Tokyo] queryPost
+[11-Nov-2022 08:39:47 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:39:47 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [title] => def
+            [date] => 2022-11-11
+            [stock] => 5
+        )
+
+    [1] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:39:56 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:56 Asia/Tokyo] 本削除
+[11-Nov-2022 08:39:56 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:56 Asia/Tokyo] queryPost
+[11-Nov-2022 08:39:56 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => DELETE FROM books WHERE id=:id
+)
+
+[11-Nov-2022 08:39:56 Asia/Tokyo] 削除成功
+[11-Nov-2022 08:39:56 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:56 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:39:56 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:39:56 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:39:56 Asia/Tokyo] Array
+(
+    [login_date] => 1668123587
+    [login_limit] => 3600
+    [user_id] => 5
+    [name] => みわち
+)
+
+[11-Nov-2022 08:39:56 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:39:56 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:39:56 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:39:56 Asia/Tokyo] queryPost
+[11-Nov-2022 08:39:56 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:39:56 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:40:06 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:40:06 Asia/Tokyo] 本削除
+[11-Nov-2022 08:40:06 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:40:06 Asia/Tokyo] queryPost
+[11-Nov-2022 08:40:06 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => DELETE FROM books WHERE id=:id
+)
+
+[11-Nov-2022 08:40:06 Asia/Tokyo] 削除失敗
+[11-Nov-2022 08:40:06 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:40:06 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:40:06 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:40:06 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:40:06 Asia/Tokyo] Array
+(
+    [login_date] => 1668123596
+    [login_limit] => 3600
+    [user_id] => 5
+    [name] => みわち
+)
+
+[11-Nov-2022 08:40:06 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:40:06 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:40:06 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:40:06 Asia/Tokyo] queryPost
+[11-Nov-2022 08:40:06 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:40:06 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:40:14 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:40:14 Asia/Tokyo] 本削除
+[11-Nov-2022 08:40:14 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:40:14 Asia/Tokyo] queryPost
+[11-Nov-2022 08:40:14 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => DELETE FROM books WHERE id=:id
+)
+
+[11-Nov-2022 08:40:14 Asia/Tokyo] 削除失敗
+[11-Nov-2022 08:40:14 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:40:14 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:40:14 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:40:14 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:40:14 Asia/Tokyo] Array
+(
+    [login_date] => 1668123606
+    [login_limit] => 3600
+    [user_id] => 5
+    [name] => みわち
+)
+
+[11-Nov-2022 08:40:14 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:40:14 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:40:14 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:40:14 Asia/Tokyo] queryPost
+[11-Nov-2022 08:40:14 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:40:14 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:40:36 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:40:36 Asia/Tokyo] 本削除
+[11-Nov-2022 08:40:36 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:40:36 Asia/Tokyo] queryPost
+[11-Nov-2022 08:40:36 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => DELETE FROM books WHERE id=:id
+)
+
+[11-Nov-2022 08:40:36 Asia/Tokyo] 削除失敗
+[11-Nov-2022 08:40:36 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:40:36 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:40:36 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:40:36 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:40:36 Asia/Tokyo] Array
+(
+    [login_date] => 1668123614
+    [login_limit] => 3600
+    [user_id] => 5
+    [name] => みわち
+)
+
+[11-Nov-2022 08:40:36 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:40:36 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:40:36 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:40:36 Asia/Tokyo] queryPost
+[11-Nov-2022 08:40:36 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:40:36 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:46:40 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:46:40 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:46:40 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:46:40 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:46:40 Asia/Tokyo] Array
+(
+    [login_date] => 1668123636
+    [login_limit] => 3600
+    [user_id] => 5
+    [name] => みわち
+)
+
+[11-Nov-2022 08:46:40 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:46:40 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:46:40 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:46:40 Asia/Tokyo] queryPost
+[11-Nov-2022 08:46:40 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:46:40 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:46:42 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:46:42 Asia/Tokyo] ログアウト画面
+[11-Nov-2022 08:46:42 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:46:42 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:46:42 Asia/Tokyo] Array
+(
+    [login_date] => 1668124000
+    [login_limit] => 3600
+    [user_id] => 5
+    [name] => みわち
+)
+
+[11-Nov-2022 08:46:42 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\logout.php on line 11
+[11-Nov-2022 08:46:42 Asia/Tokyo] ログアウトしました。
+[11-Nov-2022 08:46:42 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:46:42 Asia/Tokyo] 完了メッセージ
+[11-Nov-2022 08:46:42 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:46:42 Asia/Tokyo] セッションが空です。
+[11-Nov-2022 08:46:42 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:46:42 Asia/Tokyo] ログイン画面
+[11-Nov-2022 08:46:42 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:46:42 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:46:42 Asia/Tokyo] Array
+(
+)
+
+[11-Nov-2022 08:46:49 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:46:49 Asia/Tokyo] ログイン画面
+[11-Nov-2022 08:46:49 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:46:49 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:46:49 Asia/Tokyo] Array
+(
+)
+
+[11-Nov-2022 08:46:49 Asia/Tokyo] POST送信ありました
+[11-Nov-2022 08:46:49 Asia/Tokyo] function/checkSpectialChars
+[11-Nov-2022 08:46:49 Asia/Tokyo] queryPost
+[11-Nov-2022 08:46:49 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT * FROM users WHERE name=:name
+)
+
+[11-Nov-2022 08:46:49 Asia/Tokyo] パスワードが正しいです
+[11-Nov-2022 08:46:49 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:46:49 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:46:49 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:46:49 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:46:49 Asia/Tokyo] Array
+(
+    [login_date] => 1668124009
+    [login_limit] => 3600
+    [name] => miwa
+    [user_id] => 1
+)
+
+[11-Nov-2022 08:46:49 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:46:49 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:46:49 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:46:49 Asia/Tokyo] queryPost
+[11-Nov-2022 08:46:49 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:46:49 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:46:51 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:46:51 Asia/Tokyo] 本登録画面
+[11-Nov-2022 08:46:51 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:46:51 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:46:51 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:47:13 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:13 Asia/Tokyo] 本登録画面
+[11-Nov-2022 08:47:13 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:13 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:47:13 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:47:13 Asia/Tokyo] POST送信ありました
+[11-Nov-2022 08:47:25 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:25 Asia/Tokyo] 本登録画面
+[11-Nov-2022 08:47:25 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:25 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:47:25 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:47:25 Asia/Tokyo] POST送信ありました
+[11-Nov-2022 08:47:25 Asia/Tokyo] エラーありません
+[11-Nov-2022 08:47:25 Asia/Tokyo] queryPost
+[11-Nov-2022 08:47:25 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => INSERT INTO books (`date`,`title`,`stock`) VALUES(:date,:title,:stock)
+)
+
+[11-Nov-2022 08:47:25 Asia/Tokyo] 本登録成功
+[11-Nov-2022 08:47:25 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:25 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:47:25 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:25 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:47:25 Asia/Tokyo] Array
+(
+    [login_date] => 1668124045
+    [login_limit] => 3600
+    [name] => miwa
+    [user_id] => 1
+)
+
+[11-Nov-2022 08:47:25 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:47:25 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:47:25 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:47:25 Asia/Tokyo] queryPost
+[11-Nov-2022 08:47:25 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:47:25 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 16
+            [title] => abc
+            [date] => 2022-11-11
+            [stock] => 18
+        )
+
+    [1] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:47:36 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:36 Asia/Tokyo] ログアウト画面
+[11-Nov-2022 08:47:36 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:36 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:47:36 Asia/Tokyo] Array
+(
+    [login_date] => 1668124045
+    [login_limit] => 3600
+    [name] => miwa
+    [user_id] => 1
+)
+
+[11-Nov-2022 08:47:36 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\logout.php on line 11
+[11-Nov-2022 08:47:36 Asia/Tokyo] ログアウトしました。
+[11-Nov-2022 08:47:36 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:36 Asia/Tokyo] 完了メッセージ
+[11-Nov-2022 08:47:36 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:36 Asia/Tokyo] セッションが空です。
+[11-Nov-2022 08:47:36 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:36 Asia/Tokyo] ログイン画面
+[11-Nov-2022 08:47:36 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:36 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:47:36 Asia/Tokyo] Array
+(
+)
+
+[11-Nov-2022 08:47:41 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:41 Asia/Tokyo] ユーザー登録画面
+[11-Nov-2022 08:47:41 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:49 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:49 Asia/Tokyo] ユーザー登録画面
+[11-Nov-2022 08:47:49 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:49 Asia/Tokyo] POST送信あり
+[11-Nov-2022 08:47:49 Asia/Tokyo] function/checkSpectialChars
+[11-Nov-2022 08:47:49 Asia/Tokyo] queryPost
+[11-Nov-2022 08:47:49 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT * FROM users WHERE name=:name
+)
+
+[11-Nov-2022 08:47:49 Asia/Tokyo] エラーありません
+[11-Nov-2022 08:47:50 Asia/Tokyo] queryPost
+[11-Nov-2022 08:47:50 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => INSERT INTO users (name,password) VALUES (:name,:password)
+)
+
+[11-Nov-2022 08:47:50 Asia/Tokyo] 会員登録成功
+[11-Nov-2022 08:47:50 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:50 Asia/Tokyo] 完了メッセージ
+[11-Nov-2022 08:47:50 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:50 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:47:50 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:47:54 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:54 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:47:54 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:54 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:47:54 Asia/Tokyo] Array
+(
+    [login_date] => 1668124070
+    [login_limit] => 3600
+    [user_id] => 6
+    [name] => おぼっちゃま
+)
+
+[11-Nov-2022 08:47:54 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:47:54 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:47:54 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:47:54 Asia/Tokyo] queryPost
+[11-Nov-2022 08:47:54 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:47:54 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 16
+            [title] => abc
+            [date] => 2022-11-11
+            [stock] => 18
+        )
+
+    [1] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:47:55 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:55 Asia/Tokyo] ログアウト画面
+[11-Nov-2022 08:47:55 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:55 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:47:55 Asia/Tokyo] Array
+(
+    [login_date] => 1668124074
+    [login_limit] => 3600
+    [user_id] => 6
+    [name] => おぼっちゃま
+)
+
+[11-Nov-2022 08:47:55 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\logout.php on line 11
+[11-Nov-2022 08:47:55 Asia/Tokyo] ログアウトしました。
+[11-Nov-2022 08:47:56 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:56 Asia/Tokyo] 完了メッセージ
+[11-Nov-2022 08:47:56 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:56 Asia/Tokyo] セッションが空です。
+[11-Nov-2022 08:47:56 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:56 Asia/Tokyo] ログイン画面
+[11-Nov-2022 08:47:56 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:47:56 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:47:56 Asia/Tokyo] Array
+(
+)
+
+[11-Nov-2022 08:51:32 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:51:32 Asia/Tokyo] ログイン画面
+[11-Nov-2022 08:51:32 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:51:32 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:51:32 Asia/Tokyo] Array
+(
+)
+
+[11-Nov-2022 08:51:34 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:51:34 Asia/Tokyo] ユーザー登録画面
+[11-Nov-2022 08:51:34 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:51:42 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:51:42 Asia/Tokyo] ユーザー登録画面
+[11-Nov-2022 08:51:42 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:51:42 Asia/Tokyo] POST送信あり
+[11-Nov-2022 08:51:42 Asia/Tokyo] function/checkSpectialChars
+[11-Nov-2022 08:51:42 Asia/Tokyo] queryPost
+[11-Nov-2022 08:51:42 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT * FROM users WHERE name=:name
+)
+
+[11-Nov-2022 08:51:42 Asia/Tokyo] エラーありません
+[11-Nov-2022 08:51:42 Asia/Tokyo] queryPost
+[11-Nov-2022 08:51:42 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => INSERT INTO users (name,password) VALUES (:name,:password)
+)
+
+[11-Nov-2022 08:51:42 Asia/Tokyo] 会員登録成功
+[11-Nov-2022 08:51:42 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:51:42 Asia/Tokyo] 完了メッセージ
+[11-Nov-2022 08:51:42 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:51:42 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:51:42 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:51:43 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:51:43 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:51:43 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:51:43 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:51:43 Asia/Tokyo] Array
+(
+    [login_date] => 1668124302
+    [login_limit] => 3600
+    [user_id] => 7
+    [name] => かずは
+)
+
+[11-Nov-2022 08:51:43 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:51:43 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:51:43 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:51:43 Asia/Tokyo] queryPost
+[11-Nov-2022 08:51:43 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:51:43 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 16
+            [title] => abc
+            [date] => 2022-11-11
+            [stock] => 18
+        )
+
+    [1] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:51:51 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:51:51 Asia/Tokyo] 本登録画面
+[11-Nov-2022 08:51:51 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:51:51 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:51:51 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:52:00 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:52:00 Asia/Tokyo] 本登録画面
+[11-Nov-2022 08:52:00 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:52:00 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:52:00 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:52:00 Asia/Tokyo] POST送信ありました
+[11-Nov-2022 08:52:00 Asia/Tokyo] エラーありません
+[11-Nov-2022 08:52:00 Asia/Tokyo] queryPost
+[11-Nov-2022 08:52:00 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => INSERT INTO books (`date`,`title`,`stock`) VALUES(:date,:title,:stock)
+)
+
+[11-Nov-2022 08:52:00 Asia/Tokyo] 本登録成功
+[11-Nov-2022 08:52:00 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:52:00 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:52:00 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:52:00 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:52:00 Asia/Tokyo] Array
+(
+    [login_date] => 1668124320
+    [login_limit] => 3600
+    [user_id] => 7
+    [name] => かずは
+)
+
+[11-Nov-2022 08:52:00 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:52:00 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:52:00 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:52:00 Asia/Tokyo] queryPost
+[11-Nov-2022 08:52:00 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:52:00 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 17
+            [title] => ほほ
+            [date] => 2022-11-11
+            [stock] => 16
+        )
+
+    [1] => Array
+        (
+            [id] => 16
+            [title] => abc
+            [date] => 2022-11-11
+            [stock] => 18
+        )
+
+    [2] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [6] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:52:05 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:52:05 Asia/Tokyo] 本削除
+[11-Nov-2022 08:52:05 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:52:05 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:52:05 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:52:05 Asia/Tokyo] メインページに飛ばす
+[11-Nov-2022 08:52:05 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:52:05 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:52:05 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:52:05 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:52:05 Asia/Tokyo] Array
+(
+    [login_date] => 1668124325
+    [login_limit] => 3600
+    [user_id] => 7
+    [name] => かずは
+)
+
+[11-Nov-2022 08:52:05 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:52:05 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:52:05 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:52:05 Asia/Tokyo] queryPost
+[11-Nov-2022 08:52:05 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:52:05 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 17
+            [title] => ほほ
+            [date] => 2022-11-11
+            [stock] => 16
+        )
+
+    [1] => Array
+        (
+            [id] => 16
+            [title] => abc
+            [date] => 2022-11-11
+            [stock] => 18
+        )
+
+    [2] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [6] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:52:10 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:52:10 Asia/Tokyo] 本削除
+[11-Nov-2022 08:52:10 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:52:10 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:52:10 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:52:10 Asia/Tokyo] メインページに飛ばす
+[11-Nov-2022 08:52:10 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:52:10 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:52:10 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:52:10 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:52:10 Asia/Tokyo] Array
+(
+    [login_date] => 1668124330
+    [login_limit] => 3600
+    [user_id] => 7
+    [name] => かずは
+)
+
+[11-Nov-2022 08:52:10 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:52:10 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:52:10 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:52:10 Asia/Tokyo] queryPost
+[11-Nov-2022 08:52:10 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:52:10 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 17
+            [title] => ほほ
+            [date] => 2022-11-11
+            [stock] => 16
+        )
+
+    [1] => Array
+        (
+            [id] => 16
+            [title] => abc
+            [date] => 2022-11-11
+            [stock] => 18
+        )
+
+    [2] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [6] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:52:16 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:52:16 Asia/Tokyo] 本削除
+[11-Nov-2022 08:52:16 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:52:16 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:52:16 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:52:16 Asia/Tokyo] メインページに飛ばす
+[11-Nov-2022 08:52:16 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:52:16 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:52:16 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:52:16 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:52:16 Asia/Tokyo] Array
+(
+    [login_date] => 1668124336
+    [login_limit] => 3600
+    [user_id] => 7
+    [name] => かずは
+)
+
+[11-Nov-2022 08:52:16 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:52:16 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:52:16 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:52:16 Asia/Tokyo] queryPost
+[11-Nov-2022 08:52:16 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:52:16 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 17
+            [title] => ほほ
+            [date] => 2022-11-11
+            [stock] => 16
+        )
+
+    [1] => Array
+        (
+            [id] => 16
+            [title] => abc
+            [date] => 2022-11-11
+            [stock] => 18
+        )
+
+    [2] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [6] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:53:23 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:53:23 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:53:23 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:53:23 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:53:23 Asia/Tokyo] Array
+(
+    [login_date] => 1668124336
+    [login_limit] => 3600
+    [user_id] => 7
+    [name] => かずは
+)
+
+[11-Nov-2022 08:53:23 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:53:23 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:53:23 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:53:23 Asia/Tokyo] queryPost
+[11-Nov-2022 08:53:23 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:53:23 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 17
+            [title] => ほほ
+            [date] => 2022-11-11
+            [stock] => 16
+        )
+
+    [1] => Array
+        (
+            [id] => 16
+            [title] => abc
+            [date] => 2022-11-11
+            [stock] => 18
+        )
+
+    [2] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [6] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:53:25 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:53:25 Asia/Tokyo] 本削除
+[11-Nov-2022 08:53:25 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:53:25 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:53:25 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:53:25 Asia/Tokyo] queryPost
+[11-Nov-2022 08:53:25 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => DELETE FROM books WHERE id=:id
+)
+
+[11-Nov-2022 08:53:25 Asia/Tokyo] 削除成功
+[11-Nov-2022 08:53:25 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:53:25 Asia/Tokyo] 在庫一覧画面
+[11-Nov-2022 08:53:25 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:53:25 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:53:25 Asia/Tokyo] Array
+(
+    [login_date] => 1668124405
+    [login_limit] => 3600
+    [user_id] => 7
+    [name] => かずは
+)
+
+[11-Nov-2022 08:53:25 Asia/Tokyo] セッション中身あり
+[11-Nov-2022 08:53:25 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[11-Nov-2022 08:53:25 Asia/Tokyo] getAllBooks
+[11-Nov-2022 08:53:25 Asia/Tokyo] queryPost
+[11-Nov-2022 08:53:25 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[11-Nov-2022 08:53:25 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 17
+            [title] => ほほ
+            [date] => 2022-11-11
+            [stock] => 16
+        )
+
+    [1] => Array
+        (
+            [id] => 13
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[11-Nov-2022 08:53:29 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:53:29 Asia/Tokyo] ログアウト画面
+[11-Nov-2022 08:53:29 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:53:29 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:53:29 Asia/Tokyo] Array
+(
+    [login_date] => 1668124405
+    [login_limit] => 3600
+    [user_id] => 7
+    [name] => かずは
+)
+
+[11-Nov-2022 08:53:29 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\logout.php on line 11
+[11-Nov-2022 08:53:29 Asia/Tokyo] ログアウトしました。
+[11-Nov-2022 08:53:29 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:53:29 Asia/Tokyo] 完了メッセージ
+[11-Nov-2022 08:53:29 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:53:29 Asia/Tokyo] セッションが空です。
+[11-Nov-2022 08:53:29 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:53:29 Asia/Tokyo] ログイン画面
+[11-Nov-2022 08:53:29 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 08:53:29 Asia/Tokyo] セッション中身
+[11-Nov-2022 08:53:29 Asia/Tokyo] Array
+(
+)
+
