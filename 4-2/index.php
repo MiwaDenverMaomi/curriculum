@@ -1,7 +1,7 @@
 <?php
 require "./functions/function.php";
 require "./functions/getData.php";
-
+session_start();
 $user=new getData();
 
 //PDOがエラーなく生成できた場合
@@ -39,6 +39,8 @@ if(empty($errMsg['common'])){
      debug('投稿データ取得失敗：.'.$e->getMessage());
 		 $errMsg['posts']=ERR_GET_POSTS;
 	}
+
+	debug('session中身:.'.print_r($_SESSION,true));
 }
 
 $pageTitle="4章チェックテスト";

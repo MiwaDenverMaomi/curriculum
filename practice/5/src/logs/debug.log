@@ -1,0 +1,1867 @@
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:セッションID: 89dlm5j9777ht6dr877uso4k3q
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870159
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:現在のタイムスタンプ: 1667870237
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:================================
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:================================
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:$sql:SELECT * from posts WHERE id=:id
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:17:17 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :id
+            [1] => 2
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:18:34 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:18:34 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:18:34 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:18:34 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:18:34 Europe/Berlin] debug:セッションID: 9651ls91md8ddqh8bk8vsah4up
+[08-Nov-2022 02:18:34 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870237
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:18:34 Europe/Berlin] debug:現在のタイムスタンプ: 1667870314
+[08-Nov-2022 02:18:34 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:18:34 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:18:34 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:18:34 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:18:34 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:18:41 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:18:41 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:18:41 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:18:41 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:18:41 Europe/Berlin] debug:セッションID: 8eslet9tc4a4acfsfdu0rlev4p
+[08-Nov-2022 02:18:41 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870314
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:18:41 Europe/Berlin] debug:現在のタイムスタンプ: 1667870321
+[08-Nov-2022 02:18:41 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:18:41 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:18:41 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:18:41 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:18:41 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:20:42 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:20:42 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:20:42 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:20:42 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:20:42 Europe/Berlin] debug:セッションID: 9uuskdf1ut06so90dtv15ku74q
+[08-Nov-2022 02:20:42 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870321
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:20:42 Europe/Berlin] debug:現在のタイムスタンプ: 1667870442
+[08-Nov-2022 02:20:42 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:20:42 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:20:42 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:20:42 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:20:42 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:20:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\src\create_comment.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\src\create_comment.php on line 21
+[08-Nov-2022 02:20:52 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:20:52 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:20:52 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:20:52 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:20:52 Europe/Berlin] debug:セッションID: b4onjh10fdov25ue99nk7bf6u8
+[08-Nov-2022 02:20:52 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870442
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:20:52 Europe/Berlin] debug:現在のタイムスタンプ: 1667870452
+[08-Nov-2022 02:20:52 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:20:52 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:20:52 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:20:52 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:20:52 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:セッションID: go9b0f3v61at7pts66gj36dlip
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870452
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:現在のタイムスタンプ: 1667870464
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:$sql:INSERT `name`,`content` into comments VALUES(name=>:name,content=>:content)
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :name
+            [1] => miwao
+            [2] => 2
+        )
+
+    [1] => Array
+        (
+            [0] => :content
+            [1] => a
+            [2] => 2
+        )
+
+)
+
+[08-Nov-2022 02:21:04 Europe/Berlin] debug:エラー:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`content` into comments VALUES(name=>'miwao',content=>'a')' at line 1
+[08-Nov-2022 02:21:56 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:21:56 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:21:56 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:21:56 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:21:56 Europe/Berlin] debug:セッションID: ife7pqd2dq8ahcqp8naqm6oaa8
+[08-Nov-2022 02:21:56 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870464
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:21:56 Europe/Berlin] debug:現在のタイムスタンプ: 1667870516
+[08-Nov-2022 02:21:56 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:21:56 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:21:56 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:21:56 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:21:56 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:セッションID: mjf2n3124lrgsqv04t0fi2tgri
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870516
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:現在のタイムスタンプ: 1667870520
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:================================
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:================================
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:セッションID: 8asm1stt5ds6ahhh9tjjo03skk
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870520
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:現在のタイムスタンプ: 1667870520
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:22:00 Europe/Berlin] debug:$sql:SELECT * FROM posts
+[08-Nov-2022 02:22:02 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:22:02 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:22:02 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:22:02 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:22:02 Europe/Berlin] debug:セッションID: ahdsl27fg5v2g072s07sl9memi
+[08-Nov-2022 02:22:02 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870520
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:22:02 Europe/Berlin] debug:現在のタイムスタンプ: 1667870522
+[08-Nov-2022 02:22:02 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:22:02 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:22:02 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:22:02 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:22:02 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:セッションID: 2vp0vbe7cc1tl0v6rkk4i6mn07
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870522
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:現在のタイムスタンプ: 1667870523
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:$sql:INSERT (name,content) into comments VALUES(name=>:name,content=>:content)
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :name
+            [1] => miwao
+            [2] => 2
+        )
+
+    [1] => Array
+        (
+            [0] => :content
+            [1] => a
+            [2] => 2
+        )
+
+)
+
+[08-Nov-2022 02:22:03 Europe/Berlin] debug:エラー:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(name,content) into comments VALUES(name=>'miwao',content=>'a')' at line 1
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:セッションID: 38etj7hc0s4nmt1gucnjleom4r
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870523
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:現在のタイムスタンプ: 1667870599
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:$sql:INSERT into comments (name,content) VALUES(name=>:name,content=>:content)
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :name
+            [1] => miwao
+            [2] => 2
+        )
+
+    [1] => Array
+        (
+            [0] => :content
+            [1] => a
+            [2] => 2
+        )
+
+)
+
+[08-Nov-2022 02:23:19 Europe/Berlin] debug:エラー:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '>'miwao',content=>'a')' at line 1
+[08-Nov-2022 02:23:22 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:23:22 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:23:22 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:23:22 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:23:22 Europe/Berlin] debug:セッションID: em5qjup68g9s7ljq95itrb6mbh
+[08-Nov-2022 02:23:22 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870599
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:23:22 Europe/Berlin] debug:現在のタイムスタンプ: 1667870602
+[08-Nov-2022 02:23:22 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:23:22 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:23:22 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:23:22 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:23:22 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:セッションID: 055ufrja3tkuujp7kgfoofrv2f
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870602
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:現在のタイムスタンプ: 1667870607
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:$sql:INSERT into comments (name,content) VALUES(name=>:name,content=>:content)
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :name
+            [1] => miwao
+            [2] => 2
+        )
+
+    [1] => Array
+        (
+            [0] => :content
+            [1] => a
+            [2] => 2
+        )
+
+)
+
+[08-Nov-2022 02:23:27 Europe/Berlin] debug:エラー:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '>'miwao',content=>'a')' at line 1
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:セッションID: cc11vf5rc0ofcd5mg5ron7571c
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870607
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:現在のタイムスタンプ: 1667870935
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:$sql:INSERT INTO comments (`name`,`content`) VALUES(:name,:content)
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :name
+            [1] => miwao
+            [2] => 2
+        )
+
+    [1] => Array
+        (
+            [0] => :content
+            [1] => a
+            [2] => 2
+        )
+
+)
+
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:セッションID: m14j8tauak1mrpsku54pmb0jls
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870935
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:現在のタイムスタンプ: 1667870935
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:================================
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:================================
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:セッションID: tuuca8o90apa9en7cg9656p6c5
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870935
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:現在のタイムスタンプ: 1667870935
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:28:55 Europe/Berlin] debug:$sql:SELECT * FROM posts
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:セッションID: j33pjv4n0tk5dr8m7rgqp4qpc8
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870935
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:現在のタイムスタンプ: 1667870940
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:================================
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:================================
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:$sql:SELECT * from posts WHERE id=:id
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:29:00 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :id
+            [1] => 2
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:29:02 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:29:02 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:29:02 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:29:02 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:02 Europe/Berlin] debug:セッションID: m3o8gpjftp4l2h8hrvm4vau33a
+[08-Nov-2022 02:29:02 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870940
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:29:02 Europe/Berlin] debug:現在のタイムスタンプ: 1667870942
+[08-Nov-2022 02:29:02 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:02 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:29:02 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:29:02 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:29:02 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:セッションID: th40jjv4fg62akudnuc0rne042
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870942
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:現在のタイムスタンプ: 1667870948
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:$sql:INSERT INTO comments (`name`,`content`) VALUES(:name,:content)
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :name
+            [1] => mowaa
+            [2] => 2
+        )
+
+    [1] => Array
+        (
+            [0] => :content
+            [1] => a
+            [2] => 2
+        )
+
+)
+
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:セッションID: 9aat4js68u0jpbnh8d5m22cqt3
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870948
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:現在のタイムスタンプ: 1667870948
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:================================
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:================================
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:セッションID: 9gfvs47rj2ruqpoc01vcb8unlu
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870948
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:現在のタイムスタンプ: 1667870948
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:29:08 Europe/Berlin] debug:$sql:SELECT * FROM posts
+[08-Nov-2022 02:29:34 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:34 Europe/Berlin] debug:セッションID: qlmb2cmvie6d8pm9mdjuonkle4
+[08-Nov-2022 02:29:34 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870948
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:29:34 Europe/Berlin] debug:現在のタイムスタンプ: 1667870974
+[08-Nov-2022 02:29:34 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:34 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:29:34 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:29:34 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:29:34 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:29:34 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:29:34 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:29:34 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:29:34 Europe/Berlin] debug:$sql:SELECT * FROM posts
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:セッションID: l8a1h65j9umeov166f1sojcr9l
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870974
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:現在のタイムスタンプ: 1667870979
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:================================
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:================================
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:$sql:SELECT * from posts WHERE id=:id
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:29:39 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :id
+            [1] => 2
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:29:41 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:29:41 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:29:41 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:29:41 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:41 Europe/Berlin] debug:セッションID: 39ckpou451eos3e7900mdvmv6i
+[08-Nov-2022 02:29:41 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870979
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:29:41 Europe/Berlin] debug:現在のタイムスタンプ: 1667870981
+[08-Nov-2022 02:29:41 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:41 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:29:41 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:29:41 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:29:41 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:セッションID: f5ghtetqhufmih2te5rh6bqen8
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870981
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:現在のタイムスタンプ: 1667870984
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:$sql:INSERT INTO comments (name,content) VALUES(:name,:content)
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :name
+            [1] => mimi
+            [2] => 2
+        )
+
+    [1] => Array
+        (
+            [0] => :content
+            [1] => aa
+            [2] => 2
+        )
+
+)
+
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:セッションID: bspnj10ue818sfk09hu9gp1vie
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870984
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:現在のタイムスタンプ: 1667870984
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:================================
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:================================
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:セッションID: p2rhsul87h13f4uhgj0ml74ud2
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870984
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:現在のタイムスタンプ: 1667870984
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:29:44 Europe/Berlin] debug:$sql:SELECT * FROM posts
+[08-Nov-2022 02:31:46 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:31:46 Europe/Berlin] debug:セッションID: oaq444j3qlro6kva9t12ujf371
+[08-Nov-2022 02:31:46 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667870984
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:31:46 Europe/Berlin] debug:現在のタイムスタンプ: 1667871106
+[08-Nov-2022 02:31:46 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:31:46 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:31:46 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:31:46 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:31:46 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:31:46 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:31:47 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:31:47 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:31:47 Europe/Berlin] debug:$sql:SELECT * FROM posts
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:セッションID: dmlaael1hrrr9ejddnjs8iks2i
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871106
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:現在のタイムスタンプ: 1667871108
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:================================
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:================================
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:$sql:SELECT * from posts WHERE id=:id
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:31:48 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :id
+            [1] => 2
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:31:50 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:31:50 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:31:50 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:31:50 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:31:50 Europe/Berlin] debug:セッションID: jo8a17khardi48ftkge0vjerv1
+[08-Nov-2022 02:31:50 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871108
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:31:50 Europe/Berlin] debug:現在のタイムスタンプ: 1667871110
+[08-Nov-2022 02:31:50 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:31:50 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:31:50 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:31:50 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:31:50 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:セッションID: 35hhbdbs1k1pel3mm9dllf8iqc
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871110
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:現在のタイムスタンプ: 1667871118
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:$sql:INSERT INTO comments (post_id,name,content) VALUES(:post_id,:name,:content)
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :post_id
+            [1] => 
+            [2] => 1
+        )
+
+    [1] => Array
+        (
+            [0] => :name
+            [1] => aaaaaa
+            [2] => 2
+        )
+
+    [2] => Array
+        (
+            [0] => :content
+            [1] => fff
+            [2] => 2
+        )
+
+)
+
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:セッションID: kobhp8715bb9scs27j15nk7mv8
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871118
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:現在のタイムスタンプ: 1667871118
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:================================
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:================================
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:セッションID: u0k8mjd3052sn0k38j72sok9dh
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871118
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:現在のタイムスタンプ: 1667871118
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:31:58 Europe/Berlin] debug:$sql:SELECT * FROM posts
+[08-Nov-2022 02:34:02 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:34:02 Europe/Berlin] debug:セッションID: qcdo8rktfk81s4e8enqin40iql
+[08-Nov-2022 02:34:02 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871118
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:34:02 Europe/Berlin] debug:現在のタイムスタンプ: 1667871242
+[08-Nov-2022 02:34:02 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:34:02 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:34:02 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:34:02 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:34:02 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:34:02 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:34:02 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:34:02 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:34:02 Europe/Berlin] debug:$sql:SELECT * FROM posts
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:セッションID: 244bjoleatgeofrnela6tumo8k
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871242
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:現在のタイムスタンプ: 1667871244
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:================================
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:================================
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:$sql:SELECT * from posts WHERE id=:id
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:34:04 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :id
+            [1] => 2
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:34:06 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:34:06 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:34:06 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:34:06 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:34:06 Europe/Berlin] debug:セッションID: 9rrigdl9h8p43bda1qolpbs5s1
+[08-Nov-2022 02:34:06 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871244
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:34:06 Europe/Berlin] debug:現在のタイムスタンプ: 1667871246
+[08-Nov-2022 02:34:06 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:34:06 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:34:06 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:34:06 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:34:06 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:セッションID: c31ucf12umi16svks8khngcfv7
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871246
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:現在のタイムスタンプ: 1667871251
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:$sql:INSERT INTO comments (post_id,name,content) VALUES(:post_id,:name,:content)
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :post_id
+            [1] => 
+            [2] => 1
+        )
+
+    [1] => Array
+        (
+            [0] => :name
+            [1] => abc
+            [2] => 2
+        )
+
+    [2] => Array
+        (
+            [0] => :content
+            [1] => abc
+            [2] => 2
+        )
+
+)
+
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:セッションID: mugg3ev42s9bs2ebcdgnsn1kiu
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871251
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:現在のタイムスタンプ: 1667871251
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:================================
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:================================
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:セッションID: ri2qh2glmnit56kbbcn8ietl0t
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871251
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:現在のタイムスタンプ: 1667871251
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:34:11 Europe/Berlin] debug:$sql:SELECT * FROM posts
+[08-Nov-2022 02:35:35 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:35:35 Europe/Berlin] debug:セッションID: dfh4321550eovq5hdsssia9foc
+[08-Nov-2022 02:35:35 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871251
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:35:35 Europe/Berlin] debug:現在のタイムスタンプ: 1667871335
+[08-Nov-2022 02:35:35 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:35:35 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:35:35 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:35:35 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:35:35 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:35:35 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:35:35 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:35:35 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:35:35 Europe/Berlin] debug:$sql:SELECT * FROM posts
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:セッションID: 09bpil8333r1u6nu9o28dlpq9o
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871335
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:現在のタイムスタンプ: 1667871337
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:================================
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:================================
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:$sql:SELECT * from posts WHERE id=:id
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:35:37 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :id
+            [1] => 2
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:35:39 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:35:39 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:35:39 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:35:39 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:35:39 Europe/Berlin] debug:セッションID: 7jkbu55r4om12ln2i9mijoqkn2
+[08-Nov-2022 02:35:39 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871337
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:35:39 Europe/Berlin] debug:現在のタイムスタンプ: 1667871339
+[08-Nov-2022 02:35:39 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:35:39 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:35:39 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:35:39 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:35:39 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:セッションID: e4eln5d62e3s5237lindd8cill
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871339
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:現在のタイムスタンプ: 1667871346
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:$sql:INSERT INTO comments (post_id,name,content) VALUES(:post_id,:name,:content)
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :post_id
+            [1] => 2
+            [2] => 1
+        )
+
+    [1] => Array
+        (
+            [0] => :name
+            [1] => abcdddaa
+            [2] => 2
+        )
+
+    [2] => Array
+        (
+            [0] => :content
+            [1] => abc
+            [2] => 2
+        )
+
+)
+
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:セッションID: itq9pkb2bh9h2ome85irnfh4th
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871346
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:現在のタイムスタンプ: 1667871346
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:================================
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:================================
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:$sql:SELECT * from posts WHERE id=:id
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:35:46 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :id
+            [1] => 2
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:セッションID: h0tmttfub6n3pjpigu21ksmbgo
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667871346
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:現在のタイムスタンプ: 1667872290
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:================================
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:================================
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:$sql:SELECT * FROM WHERE id=:id
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:エラー：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id=:id' at line 1
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:$sql:SELECT * from comments WHERE post_id=:post_id
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:51:30 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :post_id
+            [1] => 
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:セッションID: 5oebiv1sfnf3rt12p4e2lm0l3o
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667872290
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:現在のタイムスタンプ: 1667872311
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:================================
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:================================
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:$sql:SELECT * FROM WHERE id=:id
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:エラー：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id=:id' at line 1
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:$sql:SELECT * from comments WHERE post_id=:post_id
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:51:51 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :post_id
+            [1] => 
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:セッションID: dm49ebf2srq9dv2fg686ejh5p5
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667872311
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:現在のタイムスタンプ: 1667872412
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:================================
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:================================
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:find_post_by_id
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:idは空ではない
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:$sql:SELECT * FROM posts WHERE id=:id
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:エラー：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':id' at line 1
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:$sql:SELECT * from comments WHERE post_id=:post_id
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:53:32 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :post_id
+            [1] => 
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:セッションID: mo51utjc1tf5amgb91k8pubbnr
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667872412
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:現在のタイムスタンプ: 1667872414
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:================================
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:================================
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:find_post_by_id
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:idは空ではない
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:$sql:SELECT * FROM posts WHERE id=:id
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:エラー：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':id' at line 1
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:$sql:SELECT * from comments WHERE post_id=:post_id
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:53:34 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :post_id
+            [1] => 
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:セッションID: l05s3d81n25al3p75urlrfhqcm
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667872414
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:現在のタイムスタンプ: 1667872564
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:================================
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:================================
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:find_post_by_id
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:idは空ではない
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:$sql:SELECT * FROM posts WHERE id=:id
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :id
+            [1] => 2
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:$sql:SELECT * from comments WHERE post_id=:post_id
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:56:04 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :post_id
+            [1] => 2
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:セッションID: m9dfjcl7ktqd1hsuk713kcll23
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667872564
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:現在のタイムスタンプ: 1667872623
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:================================
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:================================
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:find_post_by_id
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:idは空ではない
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:$sql:SELECT * FROM posts WHERE id=:id
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :id
+            [1] => 2
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:$sql:SELECT * from comments WHERE post_id=:post_id
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:57:03 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :post_id
+            [1] => 2
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:セッションID: 3lmdl6a6g3espiid8ilkibrk81
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667872623
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:現在のタイムスタンプ: 1667872648
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:================================
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:================================
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:find_post_by_id
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:idは空ではない
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:$sql:SELECT * FROM posts WHERE id=:id
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :id
+            [1] => 2
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:$sql:SELECT * from comments WHERE post_id=:post_id
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:57:28 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :post_id
+            [1] => 2
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:57:39 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:57:39 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:57:39 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:57:39 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:57:39 Europe/Berlin] debug:セッションID: mqfml287pq09kpn3d13spbd8a7
+[08-Nov-2022 02:57:39 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667872648
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:57:39 Europe/Berlin] debug:現在のタイムスタンプ: 1667872659
+[08-Nov-2022 02:57:39 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:57:39 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:57:39 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:57:39 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:57:39 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:セッションID: r03c62tksoes3tg4jqg2jrhkkp
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667872659
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:現在のタイムスタンプ: 1667872672
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:$sql:INSERT INTO comments (post_id,name,content) VALUES(:post_id,:name,:content)
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :post_id
+            [1] => 2
+            [2] => 1
+        )
+
+    [1] => Array
+        (
+            [0] => :name
+            [1] => yossy
+            [2] => 2
+        )
+
+    [2] => Array
+        (
+            [0] => :content
+            [1] => mariomariomario
+            [2] => 2
+        )
+
+)
+
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:セッションID: 4v8d3k7hchqsosp9jpjr327j09
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667872672
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:現在のタイムスタンプ: 1667872672
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:================================
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:detail_post.php
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:================================
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:ログイン有効期限内です
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:typestring
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:find_post_by_id
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:idは空ではない
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:$sql:SELECT * FROM posts WHERE id=:id
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :id
+            [1] => 2
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:function/dbConnect()
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:$pdo:PDO Object
+(
+)
+
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:function/queryPost
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:$sql:SELECT * from comments WHERE post_id=:post_id
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:bindValue
+[08-Nov-2022 02:57:52 Europe/Berlin] debug:$dataArray
+(
+    [0] => Array
+        (
+            [0] => :post_id
+            [1] => 2
+            [2] => 1
+        )
+
+)
+
+[08-Nov-2022 03:24:34 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 03:24:34 Europe/Berlin] debug:コメント投稿ページ
+[08-Nov-2022 03:24:34 Europe/Berlin] debug:<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[08-Nov-2022 03:24:34 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 03:24:34 Europe/Berlin] debug:セッションID: 9hb6ml2vebdfvirl2t14k2b7m0
+[08-Nov-2022 03:24:34 Europe/Berlin] debug:セッション変数中身: Array
+(
+    [user_id] => 2
+    [user_name] => miwao
+    [login_date] => 1667872672
+    [login_limit] => 3600
+)
+
+[08-Nov-2022 03:24:34 Europe/Berlin] debug:現在のタイムスタンプ: 1667874274
+[08-Nov-2022 03:24:34 Europe/Berlin] debug:>>>>>>>>>>>>>>>>>>>>>>>>
+[08-Nov-2022 03:24:34 Europe/Berlin] debug:ユーザー名:miwao
+[08-Nov-2022 03:24:34 Europe/Berlin] debug:ユーザーID:2
+[08-Nov-2022 03:24:34 Europe/Berlin] debug:ログイン済みです
+[08-Nov-2022 03:24:34 Europe/Berlin] debug:ログイン有効期限内です

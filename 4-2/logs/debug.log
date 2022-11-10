@@ -1,6 +1,6 @@
-[11-Oct-2022 17:11:23 America/Los_Angeles] ユーザーデータを取得します
-[11-Oct-2022 17:11:23 America/Los_Angeles] getUserData
-[11-Oct-2022 17:11:23 America/Los_Angeles] $users_data中身：Array
+[14-Oct-2022 08:40:29 America/Los_Angeles] ユーザーデータを取得します
+[14-Oct-2022 08:40:29 America/Los_Angeles] getUserData
+[14-Oct-2022 08:40:29 America/Los_Angeles] $users_data中身：Array
 (
     [id] => 1
     [first_name] => 翔伍
@@ -8,7 +8,7 @@
     [last_login] => 2022-10-11 08:42:10
 )
 
-[11-Oct-2022 17:11:23 America/Los_Angeles] ユーザーデータ中身:Array
+[14-Oct-2022 08:40:29 America/Los_Angeles] ユーザーデータ中身:Array
 (
     [id] => 1
     [first_name] => 翔伍
@@ -16,14 +16,14 @@
     [last_login] => 2022-10-11 08:42:10
 )
 
-[11-Oct-2022 17:11:23 America/Los_Angeles] 投稿データを取得します
-[11-Oct-2022 17:11:23 America/Los_Angeles] getPostData
-[11-Oct-2022 17:11:23 America/Los_Angeles] $post_data=:PDOStatement Object
+[14-Oct-2022 08:40:29 America/Los_Angeles] 投稿データを取得します
+[14-Oct-2022 08:40:29 America/Los_Angeles] getPostData
+[14-Oct-2022 08:40:29 America/Los_Angeles] $post_data=:PDOStatement Object
 (
     [queryString] => SELECT * FROM posts ORDER BY id desc
 )
 
-[11-Oct-2022 17:11:23 America/Los_Angeles] 投稿データ中身:Array
+[14-Oct-2022 08:40:29 America/Los_Angeles] 投稿データ中身:Array
 (
     [0] => Array
         (
@@ -70,5 +70,88 @@
             [created] => 2022-10-11 16:56:52
         )
 
+)
+
+[14-Oct-2022 09:57:06 America/Los_Angeles] ユーザーデータを取得します
+[14-Oct-2022 09:57:06 America/Los_Angeles] getUserData
+[14-Oct-2022 09:57:06 America/Los_Angeles] $users_data中身：Array
+(
+    [id] => 1
+    [first_name] => 翔伍
+    [last_name] => 隼田
+    [last_login] => 2022-10-11 08:42:10
+)
+
+[14-Oct-2022 09:57:06 America/Los_Angeles] ユーザーデータ中身:Array
+(
+    [id] => 1
+    [first_name] => 翔伍
+    [last_name] => 隼田
+    [last_login] => 2022-10-11 08:42:10
+)
+
+[14-Oct-2022 09:57:06 America/Los_Angeles] 投稿データを取得します
+[14-Oct-2022 09:57:06 America/Los_Angeles] getPostData
+[14-Oct-2022 09:57:06 America/Los_Angeles] $post_data=:PDOStatement Object
+(
+    [queryString] => SELECT * FROM posts ORDER BY id desc
+)
+
+[14-Oct-2022 09:57:06 America/Los_Angeles] 投稿データ中身:Array
+(
+    [0] => Array
+        (
+            [id] => 5
+            [title] => 静岡の良さ
+            [category_no] => 2
+            [comment] => 富士山
+            [created] => 2022-10-11 16:56:52
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [title] => オフィス近場の安いランチ
+            [category_no] => 1
+            [comment] => 天狗酒場
+            [created] => 2022-10-11 16:56:52
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => 最近読んだ本
+            [category_no] => 3
+            [comment] => オブジェクト指向設計
+            [created] => 2022-10-11 16:56:52
+        )
+
+    [3] => Array
+        (
+            [id] => 2
+            [title] => 大洗に行ってきた
+            [category_no] => 2
+            [comment] => 大洗はいいぞ
+            [created] => 2022-10-11 16:56:52
+        )
+
+    [4] => Array
+        (
+            [id] => 1
+            [title] => 近場の居酒屋について
+            [category_no] => 1
+            [comment] => 庄屋は案外良い店だという件について
+            [created] => 2022-10-11 16:56:52
+        )
+
+)
+
+[14-Oct-2022 09:57:06 America/Los_Angeles] session中身:.Array
+(
+    [userid] => 34
+    [id] => 11
+    [name] => abcdddddda
+    [login_date] => 1665766370
+    [login_limit] => 3600
 )
 
