@@ -29,7 +29,7 @@ if(!empty($_POST['submit'])){
 		$pdo=db_connect();
 		$sql="INSERT INTO users (name,password) VALUES (:name,:password)";
 		$hashed_password=password_hash($password,PASSWORD_DEFAULT);
-		$data=array([':name',htmlSpecialChars($name),PDO::PARAM_STR],[':password',$hashed_password,PDO::PARAM_STR]);
+		$data=array([':name',htmlSpecialChars($name,ENT_QUOTES),PDO::PARAM_STR],[':password',$hashed_password,PDO::PARAM_STR]);
     $stmt=queryPost($pdo,$sql,$data);
 		if($stmt->rowCount()){
 			debug('会員登録成功');

@@ -11,7 +11,7 @@
   <header class="col-md-5 mx-auto text-right">
     <?php if(!empty($_SESSION['name'])) {?>
     <p class="text-right">
-      <?php echo $_SESSION['name'].'ログイン中';}else{?>
+      <?php echo htmlSpecialChars($_SESSION['name'],ENT_QUOTES).'ログイン中';}else{?>
       <?php echo 'ゲスト様'; }?>
     </p>
   </header>

@@ -9,7 +9,6 @@ debugLogStart();
 
 require_once('./auth/auth.php');
 
-
 $books=getAllBooks();
 
 ?>
@@ -32,9 +31,9 @@ $books=getAllBooks();
 				<?php if(!empty($books)) {
 					foreach($books as $book) {?>
 				<tr>
-					<td scope="row" class="border"><?php echo $book['title']?></td>
+					<td scope="row" class="border"><?php echo htmlSpecialChars($book['title'],ENT_QUOTES);?></td>
 					<td class="border"><?php echo date('Y/m/d',strtotime($book['date']));?></td>
-					<td class="border"><?php echo $book['stock']?></td>
+					<td class="border"><?php echo htmlSpecialChars($book['stock'],ENT_QUOTES);?></td>
 					<td class="border"><a type="button" class="btn btn-danger text-white" href="./delete.php?bookid=<?php echo $book['id'];?>">削除</a></td>
 				</tr>
 				<?php }}?>

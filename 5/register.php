@@ -28,7 +28,7 @@ if(!empty($_POST['submit'])){
 
 		$pdo=db_connect();
 		$sql="INSERT INTO books (`date`,`title`,`stock`) VALUES(:date,:title,:stock)";
-		$data=array([':date',$date,PDO::PARAM_STR],[':title',$bookTitle,PDO::PARAM_STR],[':stock',$stock,PDO::PARAM_INT]);
+		$data=array([':date',$date,PDO::PARAM_STR],[':title',htmlSpecialChars($bookTitle,ENT_QUOTES),PDO::PARAM_STR],[':stock',$stock,PDO::PARAM_INT]);
 		$result=registerBook($pdo,$sql,$data);
 
 		if($result===null){
@@ -36,6 +36,7 @@ if(!empty($_POST['submit'])){
      $errMsg['common']=REGISTER_FAILED;//DB_ERRで登録失敗して登録されたエラーメッセージは結局こちらで上書きされます...
 		}else{
 			debug('本登録成功');
+
 			header('Location:main.php');
 			exit;
 		}
