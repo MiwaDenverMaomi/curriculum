@@ -25,7 +25,8 @@ class LoginController extends Controller
      *
      * @var string
      */
-    protected $redirectTo = '/home';
+    //ここ変えたら、ログアウト後にlogin
+    protected $redirectTo = '/tweets';
 
     /**
      * Create a new controller instance.

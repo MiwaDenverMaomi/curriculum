@@ -20,7 +20,7 @@ Route::group(['prefix'=>'tweets'],function(){
 });
 
 Route::get('/', 'HomeController@index')->name('index');
-Route::get('/home','HomeController@home')->name('home');
+// Route::get('/home','HomeController@home')->name('home');
 
 
 

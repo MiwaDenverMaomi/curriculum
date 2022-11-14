@@ -3181,3 +3181,353 @@ Stack trace:
 
 )
 
+[11-Nov-2022 11:24:28 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 11:24:28 Asia/Tokyo] ログアウト画面
+[11-Nov-2022 11:24:28 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 11:24:28 Asia/Tokyo] セッション中身
+[11-Nov-2022 11:24:28 Asia/Tokyo] Array
+(
+    [login_date] => 1668125832
+    [login_limit] => 3600
+    [user_id] => 8
+    [name] => abc
+)
+
+[11-Nov-2022 11:24:28 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\xampp_mama\htdocs\LetsEngineer\curriculum\5\logout.php on line 11
+[11-Nov-2022 11:24:28 Asia/Tokyo] ログアウトしました。
+[11-Nov-2022 11:24:28 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 11:24:28 Asia/Tokyo] 完了メッセージ
+[11-Nov-2022 11:24:28 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 11:24:28 Asia/Tokyo] セッションが空です。
+[11-Nov-2022 11:24:28 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 11:24:28 Asia/Tokyo] ログイン画面
+[11-Nov-2022 11:24:28 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[11-Nov-2022 11:24:28 Asia/Tokyo] セッション中身
+[11-Nov-2022 11:24:28 Asia/Tokyo] Array
+(
+)
+
+[14-Nov-2022 12:30:20 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[14-Nov-2022 12:30:20 Asia/Tokyo] ログイン画面
+[14-Nov-2022 12:30:20 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[14-Nov-2022 12:30:20 Asia/Tokyo] セッション中身
+[14-Nov-2022 12:30:20 Asia/Tokyo] Array
+(
+)
+
+[14-Nov-2022 15:21:28 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[14-Nov-2022 15:21:28 Asia/Tokyo] ログイン画面
+[14-Nov-2022 15:21:28 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[14-Nov-2022 15:21:28 Asia/Tokyo] セッション中身
+[14-Nov-2022 15:21:28 Asia/Tokyo] Array
+(
+)
+
+[14-Nov-2022 15:21:42 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[14-Nov-2022 15:21:42 Asia/Tokyo] ログイン画面
+[14-Nov-2022 15:21:42 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[14-Nov-2022 15:21:42 Asia/Tokyo] セッション中身
+[14-Nov-2022 15:21:42 Asia/Tokyo] Array
+(
+)
+
+[14-Nov-2022 15:21:42 Asia/Tokyo] POST送信ありました
+[14-Nov-2022 15:21:42 Asia/Tokyo] function/checkSpectialChars
+[14-Nov-2022 15:21:42 Asia/Tokyo] queryPost
+[14-Nov-2022 15:21:42 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT * FROM users WHERE name=:name
+)
+
+[14-Nov-2022 15:21:42 Asia/Tokyo] パスワードが正しいです
+[14-Nov-2022 15:21:42 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[14-Nov-2022 15:21:42 Asia/Tokyo] 在庫一覧画面
+[14-Nov-2022 15:21:42 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[14-Nov-2022 15:21:42 Asia/Tokyo] セッション中身
+[14-Nov-2022 15:21:42 Asia/Tokyo] Array
+(
+    [login_date] => 1668406902
+    [login_limit] => 3600
+    [name] => miwa
+    [user_id] => 1
+)
+
+[14-Nov-2022 15:21:42 Asia/Tokyo] セッション中身あり
+[14-Nov-2022 15:21:42 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[14-Nov-2022 15:21:42 Asia/Tokyo] getAllBooks
+[14-Nov-2022 15:21:42 Asia/Tokyo] queryPost
+[14-Nov-2022 15:21:42 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[14-Nov-2022 15:21:42 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 21
+            [title] => abc
+            [date] => 2022-11-11
+            [stock] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 20
+            [title] => abcde
+            [date] => 2022-11-11
+            [stock] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 19
+            [title] => 
+            [date] => 2022-11-11
+            [stock] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 18
+            [title] => 
+            [date] => 2022-11-11
+            [stock] => 16
+        )
+
+    [4] => Array
+        (
+            [id] => 17
+            [title] => ほほ
+            [date] => 2022-11-11
+            [stock] => 16
+        )
+
+    [5] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [6] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [7] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[14-Nov-2022 15:21:56 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[14-Nov-2022 15:21:56 Asia/Tokyo] 在庫一覧画面
+[14-Nov-2022 15:21:56 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[14-Nov-2022 15:21:56 Asia/Tokyo] セッション中身
+[14-Nov-2022 15:21:56 Asia/Tokyo] Array
+(
+    [login_date] => 1668406902
+    [login_limit] => 3600
+    [name] => miwa
+    [user_id] => 1
+)
+
+[14-Nov-2022 15:21:56 Asia/Tokyo] セッション中身あり
+[14-Nov-2022 15:21:56 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[14-Nov-2022 15:21:56 Asia/Tokyo] getAllBooks
+[14-Nov-2022 15:21:56 Asia/Tokyo] queryPost
+[14-Nov-2022 15:21:56 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[14-Nov-2022 15:21:56 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 21
+            [title] => abc
+            [date] => 2022-11-11
+            [stock] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 20
+            [title] => abcde
+            [date] => 2022-11-11
+            [stock] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 19
+            [title] => 
+            [date] => 2022-11-11
+            [stock] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 18
+            [title] => 
+            [date] => 2022-11-11
+            [stock] => 16
+        )
+
+    [4] => Array
+        (
+            [id] => 17
+            [title] => ほほ
+            [date] => 2022-11-11
+            [stock] => 16
+        )
+
+    [5] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [6] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [7] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+
+[14-Nov-2022 15:21:57 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[14-Nov-2022 15:21:57 Asia/Tokyo] 在庫一覧画面
+[14-Nov-2022 15:21:57 Asia/Tokyo] XXXXXXXXXXXXXXXXXXXXXXXXXXx
+[14-Nov-2022 15:21:57 Asia/Tokyo] セッション中身
+[14-Nov-2022 15:21:57 Asia/Tokyo] Array
+(
+    [login_date] => 1668406916
+    [login_limit] => 3600
+    [name] => miwa
+    [user_id] => 1
+)
+
+[14-Nov-2022 15:21:58 Asia/Tokyo] セッション中身あり
+[14-Nov-2022 15:21:58 Asia/Tokyo] ログイン中（ログイン有効期限内）です
+[14-Nov-2022 15:21:58 Asia/Tokyo] getAllBooks
+[14-Nov-2022 15:21:58 Asia/Tokyo] queryPost
+[14-Nov-2022 15:21:58 Asia/Tokyo] PDOStatement Object
+(
+    [queryString] => SELECT `id`,`title`,`date`,`stock` FROM books ORDER BY id DESC
+)
+
+[14-Nov-2022 15:21:58 Asia/Tokyo] Array
+(
+    [0] => Array
+        (
+            [id] => 21
+            [title] => abc
+            [date] => 2022-11-11
+            [stock] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 20
+            [title] => abcde
+            [date] => 2022-11-11
+            [stock] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 19
+            [title] => 
+            [date] => 2022-11-11
+            [stock] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 18
+            [title] => 
+            [date] => 2022-11-11
+            [stock] => 16
+        )
+
+    [4] => Array
+        (
+            [id] => 17
+            [title] => ほほ
+            [date] => 2022-11-11
+            [stock] => 16
+        )
+
+    [5] => Array
+        (
+            [id] => 12
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [6] => Array
+        (
+            [id] => 11
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [7] => Array
+        (
+            [id] => 10
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [title] => abc
+            [date] => 2022-11-22
+            [stock] => 1
+        )
+
+)
+

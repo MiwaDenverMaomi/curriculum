@@ -32,7 +32,8 @@
 			{{$post->user->name}}
 		</div>
 		<div class="col-4">
-			{{$post->updated_at}}
+			{{$post->updated_at->format('Y/m/d')}}
+			{{Carbon\Carbon::parse($post->created_at)->format('Y/m/d')}}
 		</div>
 	</div>
 			</div>
