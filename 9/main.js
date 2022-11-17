@@ -1,22 +1,25 @@
 $('.btn').click(function () {
   $(this).toggleClass("active");
-  let flg = $(this).hasClass("active");
+  $('.bg-left').toggleClass("active");
+  $('.bg-right').toggleClass("active");
 
-  if (flg === true) {
-    open();
-  } else {
-    close();
-  }
+  // let flg = $(this).hasClass("active");
+  // console.log(flg);
+  // if (flg === true) {
+  //   open();
+  // } else {
+  //   close();
+  // }
 })
 
-let open=()=>{
-    $(".bg-left").animate({width:'0%'},2000 );
-    $(".bg-right").animate({width:'0%'},2000 );
-}
-let close=()=> {
-    $(".bg-left").animate({width:'50%'},2000 );
-    $(".bg-right").animate({width:'50%'},2000 );
-}
+// let open=()=>{
+//     $(".bg-left").animate({width:'0%'},2000 );
+//     $(".bg-right").animate({width:'0%'},2000 );
+// }
+// let close=()=> {
+//     $(".bg-left").animate({width:'50%'},2000 );
+//     $(".bg-right").animate({width:'50%'},2000 );
+// }
 
 //トライしてみた処理方法※うまくいかない
 // function slideBackground() {

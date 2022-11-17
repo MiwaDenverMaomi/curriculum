@@ -34,8 +34,15 @@
 	/* ↑この設定を加えないとダメらしい */
 }
 
+.bg-left.active {
+	width: 0;
+	transition: all 2s ease;
+}
 
-
+.bg-right.active {
+	width: 0;
+	transition: all 2s ease;
+}
 
 
 /* .bg-left.open {
