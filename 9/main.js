@@ -1,4 +1,4 @@
-$('.btn').click(function () {
+$('.btn').click( ()=> {
   $(this).toggleClass("active");
   $('.bg-left').toggleClass("active");
   $('.bg-right').toggleClass("active");
